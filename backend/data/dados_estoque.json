@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1731369915734,
+    "nome": "Cafeteira Elétrica",
+    "categoria": "Eletrodomésticos",
+    "quantidade": 40,
+    "preco": 199.9,
+    "localizacao": "G2"
+  },
+  {
+    "id": 1731369939224,
+    "nome": "Mochila para Notebook",
+    "categoria": "Acessórios",
+    "quantidade": 60,
+    "preco": 79.9,
+    "localizacao": "H1"
+  },
+  {
+    "id": 1731369965856,
+    "nome": "Livro de Programação",
+    "categoria": "Livros",
+    "quantidade": 80,
+    "preco": 59.9,
+    "localizacao": "C3"
+  },
+  {
+    "id": 1731369987992,
+    "nome": "Mouse Sem Fio",
+    "categoria": "Acessórios",
+    "quantidade": 100,
+    "preco": 89.9,
+    "localizacao": "E2"
+  },
+  {
+    "id": 1731517236847,
+    "nome": "Tênis Esportivo",
+    "categoria": "Calçados",
+    "quantidade": 50,
+    "preco": 299.99,
+    "localizacao": "A1"
+  },
+  {
+    "id": 1731517261132,
+    "nome": "Camiseta Básica",
+    "categoria": "Vestuário",
+    "quantidade": 100,
+    "preco": 49.99,
+    "localizacao": "B2"
+  },
+  {
+    "id": 1731517277770,
+    "nome": "Smartphone",
+    "categoria": "Eletrônicos",
+    "quantidade": 30,
+    "preco": 1599,
+    "localizacao": "E1"
+  },
+  {
+    "id": 1731517300782,
+    "nome": "Fone de Ouvido Bluetooth",
+    "categoria": "Acessórios",
+    "quantidade": 75,
+    "preco": 129.9,
+    "localizacao": "E3"
+  }
+]
